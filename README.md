@@ -1,10 +1,12 @@
-Testing Utilities
+Calrissian Insight
 =======
 
-Testing Utilities is a series of Java based utilities that have help people be more productive in testing.  The main utility is the AssertBuilder.  Here are some of the issues I am trying to solve with the AssertBuilder model:
+Under Construction
 
-* Disclose all failures of the test at once.
+#Testing Utilities is a series of Java based utilities that have help people be more productive in testing.  The main utility is the AssertBuilder.  Here are some of the issues I am trying to solve with the AssertBuilder model:
 
-* Simplify the assertions of tests.
+#* Disclose all failures of the test at once.
 
-For
+#* Simplify the assertions of tests.
+
+#For
