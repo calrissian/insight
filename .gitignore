@@ -1,0 +1,5 @@
+# ignore the maven generated files/directories
+target/
+# ignore InteliJ generated files/directories
+*.iml
+.idea/
